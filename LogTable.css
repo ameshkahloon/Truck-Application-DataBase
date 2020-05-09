@@ -1,0 +1,101 @@
+body{
+	background-color: #7fb5ce !important;
+}
+
+.navbar {
+    border-radius: 0% !important;
+    margin-bottom: 0 !important;
+}
+
+.head{
+    color: #996699 !important;
+    margin-bottom: 25px;
+}
+
+hr{
+    border-bottom: 1px solid  rgba(104, 88, 134, 0.2) !important;
+}
+
+#logData{
+	font-family: "Trebuchet", Arial, Helvetica, sans-serif;
+	border-collapse: collapse;
+	border: 1px solid rgb(84, 156, 168);
+	width: 100%;
+}
+
+#logData td {
+    border: 1px solid #ddd;
+    padding: 6px;
+}
+
+#logData th {
+    text-align: center;
+    color: #443266;
+    background-color: #64d4cb;
+    border: 1px solid black;
+    padding: 6px;
+}
+
+tbody{
+    text-align: center;
+    color: #443266;
+    border: 1px solid white;
+}
+
+tbody:nth-child(odd){
+    background-color: #f2f2f2;
+}
+
+tbody:hover{
+	background-color: #999999;
+}
+
+a{
+    background: none;
+    padding: 0px;
+    border: none;
+    color: #443266 !important;
+    margin-left: 4px;
+	margin-right: 4px;
+}
+
+a:hover{
+    text-decoration: none;
+}
+
+.navbar-inverse .navbar-brand {
+    color: white !important;
+    margin-right: 0;
+}
+
+.navbar-inverse .navbar-brand:hover {
+    color: rgb(58, 239, 245) !important;
+}
+
+.logNumber{
+	color: black;
+	margin-top: 5px;
+    margin-bottom: 20px;
+    display: inline-block;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+    color: white !important;
+    margin-left: 0;
+    margin-right: 0;
+    float: left;
+}
+
+.navbar-inverse .navbar-nav>li>a:hover {
+    color: #cccccc !important;
+}
+
+.jumbotron{
+    margin-top: 0 !important;
+    padding-top: 10px !important;
+    background-color: white !important;
+}
+
+.companyName{
+    color: #443266;
+}

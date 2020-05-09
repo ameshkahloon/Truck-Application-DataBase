@@ -1,0 +1,62 @@
+body{
+    background-color: #7fb5ce !important;
+}
+
+.head{
+	color: #996699;
+}
+
+label{
+	color: #006699;
+}
+
+.textInput{
+	width: 20%;
+    border: 0.5px solid #006699 !important;
+}
+
+#submission{
+	display: inline;
+}
+
+.navbar {
+    border-radius: 0% !important;
+    margin-bottom: 0 !important;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+    color: white !important;
+}
+
+.navbar-inverse .navbar-nav>li>a:hover {
+    color: #cccccc !important;
+}
+
+.navbar-inverse .navbar-brand {
+    color: white !important;
+}
+
+.navbar-inverse .navbar-brand:hover {
+    color: rgb(58, 239, 245) !important;
+}
+
+.jumbotron{
+    margin-top: 0 !important;
+    padding-top: 10px !important;
+    background-color: white !important;
+}
+
+hr{
+    border-bottom: 1px solid  rgba(104, 88, 134, 0.2) !important;
+}
+
+.head{
+    color: #996699 !important;
+    margin-bottom: 25px;
+}
+
+#myBtn{
+    margin-right: 5px;
+}
+
+

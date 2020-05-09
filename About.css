@@ -1,0 +1,66 @@
+.navbar-inverse .navbar-nav>li>a {
+    color: white;
+}
+
+.navbar-inverse .navbar-nav>li>a:hover {
+    color: #cccccc !important;
+}
+
+.navbar-inverse .navbar-brand {
+    color: white;
+}
+
+.navbar-inverse .navbar-brand:hover {
+    color: rgb(58, 239, 245) !important;
+}
+
+body{
+    background-color: #7fb5ce !important;
+}
+
+.header{
+    font-size: 44px;
+    margin-top: 5px;
+    margin-left: 15px;
+    margin-bottom: 15px;
+}
+
+hr{
+    border-bottom: 1px solid cornflowerblue;
+    margin-bottom: 0px;
+}
+
+#description{
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+.list-group-item:hover{
+    background-color: rgb(98, 223, 67);
+    color:white;
+}
+
+.list-group{
+    border: 1px rgba(0, 0, 0, 0.1) solid;
+}
+
+.navbar {
+    border-radius: 0% !important;
+    margin-bottom: 0 !important;
+}
+
+.jumbotron{
+    margin-top: 0 !important;
+    padding-top: 10px !important;
+    background-color: white !important;
+}
+
+h2{
+    color: #996699;
+}
+
+h3{
+    color: rgb(191, 129, 219);
+    margin-top: 0;
+    margin-bottom: 3px;
+}

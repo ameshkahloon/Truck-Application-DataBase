@@ -1,0 +1,52 @@
+body{
+    background: url(https://si.wsj.net/public/resources/images/BN-WZ206_Milloy_GR_20180112135836.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.navbar{
+    border-radius: 0%;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+    color: white !important;
+}
+
+.navbar-inverse .navbar-nav>li>a:hover {
+    color: #cccccc !important;
+}
+
+.navbar-inverse .navbar-brand {
+    color: white !important;
+}
+
+.navbar-inverse .navbar-brand:hover {
+    color: rgb(58, 239, 245) !important;
+}
+
+.container{
+    margin-top: 17%; 
+}
+
+h1, h6{
+    color: white !important;
+}
+
+html{
+    height: 100%;
+}
+
+hr{
+    width: 25%;
+    border: 1px solid white;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.jumbo{
+    text-align: center;
+    color: black;
+    text-shadow: 0px 4px 3px rgba(0, 0, 0, 0.4),
+                 0px 8px 13px  rgba(0, 0, 0, 0.1),
+                 0px 18px 23px  rgba(0, 0, 0, 0.1);
+}

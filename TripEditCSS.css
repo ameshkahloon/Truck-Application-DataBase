@@ -1,0 +1,89 @@
+body{
+    background-color: #7fb5ce !important;
+}
+
+.header{
+    color: #996699;
+}
+
+label{
+    color: #006699;
+}
+
+input{
+    margin-right: 1.75%;
+	width: 122px;
+	border: 0.5px solid #006699;
+}
+
+.navbar {
+    border-radius: 0% !important;
+    margin-bottom: 0 !important;
+}
+
+.navbar-inverse .navbar-brand {
+    color: white !important;
+    margin-right: 0;
+}
+
+.navbar-inverse .navbar-brand:hover {
+    color: rgb(58, 239, 245) !important;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+    color: white !important;
+    margin-left: 0;
+    margin-right: 0;
+    float: left;
+}
+
+.navbar-inverse .navbar-nav>li>a:hover {
+    color: #cccccc !important;
+}
+
+.jumbotron{
+    margin-top: 0 !important;
+    padding-top: 10px !important;
+    background-color: white !important;
+}
+
+.head{
+    color: #996699 !important;
+    margin-bottom: 25px;
+}
+
+hr{
+    border-bottom: 1px solid  rgba(104, 88, 134, 0.2) !important;
+}
+
+#myBtn{
+    margin-right: 5px;
+}
+
+#myBtn{
+    margin-right: 5px;
+}
+
+.skipper{
+    margin-left: 0;
+    margin-right: 3.5%;
+}
+
+.skipperr{
+    margin-left: 0;
+    margin-right: 4.00%;
+}
+
+.skipperrr{
+    margin-left: 0;
+    margin-right: 2.9%;
+}
+
+.skipperrrr{
+    margin-right: 6.5%;
+}
+
+.skipperrrrr{
+    margin-right: 6.20%;
+}
+

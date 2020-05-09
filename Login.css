@@ -1,0 +1,94 @@
+body{
+    background: url(https://i.pinimg.com/236x/13/c0/d4/13c0d42b0abefc046ac5bc0ccae68c2d--background-pictures.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.navbar{
+    border-radius: 0%;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+    color: white !important;
+}
+
+.navbar-inverse .navbar-nav>li>a:hover {
+    color: #cccccc !important;
+}
+
+.navbar-inverse .navbar-brand {
+    color: white !important;
+}
+
+.navbar-inverse .navbar-brand:hover {
+    color: rgb(58, 239, 245) !important;
+}
+
+hr{
+    border-bottom: 1px solid rgba(231, 53, 207);
+    width: 80%;
+}
+
+.jumbotron{
+    margin-top: 5%;
+    margin-right: auto;
+    margin-left: auto;
+    width: 25%;
+    height: 50%;
+    border-radius: 10px;
+    background-color: white;
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif; 
+    text-align: center;
+    margin-bottom: 5%;
+    color: rgb(144, 49, 221) !important;
+}
+
+.username{
+    border: 1px rgb(172, 165, 165) solid;
+    width: 80%;
+    padding-left: 3%;
+    height: 40px;
+    margin: auto;
+    display: block;
+    margin-bottom: 5%;
+    border-radius: 20px;
+}
+
+::placeholder{
+    color: rgba(231, 53, 207);
+}
+
+.password{
+    border: 1px rgb(172, 165, 165) solid;
+    width: 80%;
+    padding-left: 3%;
+    height: 40px;
+    margin: auto;
+    display: block;
+    margin-bottom: 10%;
+    border-radius: 20px;
+}
+
+#submit{
+    width: 35%;
+    height: 45px;
+    margin: auto;
+    display: block;
+    margin-bottom: 45%;
+    color:white;
+    border-radius: 30px;
+    background-color: rgb(231, 53, 207);
+}
+
+.bottom{
+    color: rgba(0, 0, 0, 0.4);
+    display: block;
+    text-align: center;
+    margin-bottom: 0;
+}
+
+
+
